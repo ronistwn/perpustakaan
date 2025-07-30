@@ -1,2 +1,0 @@
-# perpustakaan
-Tugas Python
